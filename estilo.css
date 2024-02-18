@@ -1,0 +1,114 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+body{
+	background: #070B19;
+	color: white;
+
+
+	
+	
+}	
+
+.slogan{
+	width: 710px;
+	font-family: sans-serif;
+	padding-top: 100px;
+	padding-left: 200px;
+	
+	
+
+}
+
+p{
+	font-size: 1.1em;
+	margin-top: 30px;
+	width: 600px;
+}
+
+span{
+	color: #00FFFF;
+}
+
+#contato{
+	
+	color: white;
+	position: relative;
+	bottom: 900px;
+	left: 100px;
+	width: 800px;
+	
+}
+
+#contato2{
+	color: white; 
+	margin-left: 150px;
+	margin-bottom: 50px;
+	border-radius: 5px;
+	border:1px solid #58FAF4;
+	padding: 15px 30px;
+	display: inline-block;
+	bottom: 100px;
+	
+}
+
+#contato3{
+	color: white;
+	margin-left: 150px;
+	
+	border-radius: 5px;
+	border: 1px solid #58FAF4;
+	padding: 10px 29px;
+	width: 170px;
+
+}
+
+
+
+h3{
+	padding-left: 150px;
+	padding-top: -50px;
+}
+
+a{
+	
+	padding:30px;
+	text-decoration: none;
+	
+}
+
+a:link, a:visited{
+	color: white;
+	font-weight: bold;
+	font-size: 1.1em;
+	font-family: arial;
+	display: inline;
+}
+
+img{
+	position: relative;
+	top: 7px;
+}
+
+.img_1{
+	position: relative;
+	top: 10px;
+	
+}
+#imagem_lateral{
+	position: relative;
+	top: -600px;
+	left: 700px;
+	
+	clear: both;
+
+}
+
+#rodape{
+	position: relative;
+	left: 590px;
+	top: 100px;
+	text-align: center;
+}
